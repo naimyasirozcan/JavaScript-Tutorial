@@ -1,10 +1,10 @@
-internetin kısa tarihi aldığım notlar
+-internetin kısa tarihi aldığım notlar-
 
 iyice bi öğrenelim
 
 internet nasıl ortaya çıktı??
 
-önceden radyo fln vardı
+önceden radyo vb vardı
 
 abdde ortaya çıktı
 arpa net üzerinden çıkmış
@@ -12,9 +12,7 @@ arpa net üzerinden çıkmış
 radyoya telefona alternatif
 
 
-rusyayala kapışan amerikanın alternatif iletişim aracı
-
-bir üniversitede
+rusya'yla kapışan amerika'nın alternatif iletişim aracı
 
 29 ekim 1969'da bir üniversiteden bir üniversiteye ilk iletişim
 
@@ -25,16 +23,12 @@ türkiyede 1993'te ilk kez odtüdeki bi bilgisayarın amerikaya bağlanmasıyla 
 
 arpa netten başladı
 
-ben küçükken nokia 6600'da gprs vardı amerikalı bi çocuk istemişti vermiştik bağlanana kadar çok beklemişti utanmıştım za
+bir ani: ben küçükken nokia 6600'da gprs vardı amerikalı bi çocuk istemişti vermiştik bağlanana kadar çok beklemişti utanmıştım 
  
+özal döneminde geldi türkiye'ye
 
-özal döneminde
- geldi
-türkiyeye
-
-
-te tablet pc ev ortami -> lan yani local area network
+tel tablet pc ev ortami -> lan yani local area network
 lanlarin dagiticisi modem, modemlerin iletisim agi wan wide area network
-tum bu lan ve wanlarin olusturdugu ag internettir arkadasim
+tum bu lan ve wanlarin olusturdugu ag internettir
 
 
